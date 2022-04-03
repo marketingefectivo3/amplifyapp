@@ -1,0 +1,4 @@
+﻿git branch -m main < cbd947c >
+git fetch origin
+git branch -u origin/< cbd947c > < cbd947c >
+git remote set-head origin -a
